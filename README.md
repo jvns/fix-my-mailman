@@ -1,4 +1,4 @@
-fix-my-mailman
+Fix my mailman!
 ==============
 
 I got angry at Mailman archives one day so I made a bookmarklet to take you away from a (public) Mailman post and help you find the much prettier Gmane page.
